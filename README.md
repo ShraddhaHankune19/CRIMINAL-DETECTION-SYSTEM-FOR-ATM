@@ -1,6 +1,6 @@
 # CRIMINAL-DETECTION-SYSTEM-FOR-BANKING-SECTOR
 🔐 Project Overview: Facial Recognition-Based Criminal Detection in Banking
-This system integrates facial recognition with criminal record databases to ensure secure banking transactions and detect potential criminal activity at the point of transaction (e.g., ATMs).
+This system integrates facial recognition with criminal record databases to ensure secure banking transactions and detect potential criminal activity at the point of transaction for ATMs.
 
 📊 System Workflow Breakdown
 🧍 User Initiates Transaction
