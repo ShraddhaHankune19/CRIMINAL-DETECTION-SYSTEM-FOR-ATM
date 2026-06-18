@@ -23,6 +23,34 @@ Feature detection
 
 Image enhancement
 
+🛠️ Tech Stack & Technical Skills
+
+💻 Programming Languages & Core Logic
+Python: Used as the primary programming language for computer vision pipelines, image processing, and backend logic.
+
+JavaScript: Utilized to build responsive, interactive user interfaces for the administrative and law enforcement dashboards.
+
+⚙️ Backend Architecture
+
+Flask: Employed as the core web framework to build robust RESTful APIs, manage system routes, and handle real-time HTTP requests.
+
+REST APIs: Designed and integrated secure data flows to transmit transaction logs, facial matching statuses, and system alerts seamlessly.
+
+Real-time Alert System: Developed automated trigger mechanisms to handle critical actions like account blocking and law enforcement notifications instantly.  
+PDF
+
+🗄️ Database Management
+
+MongoDB (NoSQL): Utilized as a robust, scalable database to securely store user profiles, real-time transaction logs, and pre-verified criminal records across structured collections.
+
+👁️ Computer Vision & Deep Learning
+
+OpenCV: Leveraged for real-time video feed analysis, frame capturing, and image preprocessing.
+
+Haar Cascade: Integrated for accurate real-time facial detection within live video streams.
+
+LBPH (Local Binary Patterns Histograms): Deployed for facial feature extraction and match verification against the centralized database.
+
 🔍 Feature Extraction
 
 Extracts unique facial features using:
