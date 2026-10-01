@@ -59,7 +59,7 @@ Landmarks
 
 Eigenfaces
 
-CNN-based (Convolutional Neural Network) deep learning features
+
 
 🗃️ Data Matching with Criminal Records
 
